@@ -15,6 +15,7 @@ namespace Marksman
         public Spell R;
 
         public static Items.Item Dfg = new Items.Item(3128, 750);
+        
 
         public Tristana()
         {
